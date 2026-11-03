@@ -1,4 +1,4 @@
-Install the script and visit any dataset page (SSC/HSC, YEAR) on https://boardexamrankings.vercel.app/.
+Install Tampermonkey browser extension first. From that extension's UI, install the script and visit any dataset page (SSC/HSC, YEAR) on https://boardexamrankings.vercel.app/.
 
 You'll see a search icon in the bottom-right corner. Click it to open the script's interface.
 
